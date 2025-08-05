@@ -1,0 +1,75 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1-555-123-4567
+Location: San Francisco, CA
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+Portfolio: www.johndoe.dev
+
+---
+
+PROFESSIONAL SUMMARY
+---------------------
+Passionate and results-driven Full Stack Web Developer with 3+ years of experience in designing, developing, and deploying responsive web applications. Proficient in JavaScript, React, Node.js, and modern web development best practices. Strong understanding of REST APIs, version control, and agile methodologies.
+
+---
+
+SKILLS
+------
+- Languages: HTML, CSS, JavaScript, TypeScript, Python
+- Frontend: React, Next.js, Bootstrap, Tailwind CSS
+- Backend: Node.js, Express.js, Django
+- Database: MongoDB, PostgreSQL, MySQL
+- Tools: Git, GitHub, Docker, Figma, VS Code
+- Testing: Jest, Mocha, Postman
+- Deployment: Netlify, Vercel, Heroku, AWS (basic)
+
+---
+
+EXPERIENCE
+----------
+Web Developer | PixelWave Technologies | San Francisco, CA | Jan 2022 – Present
+- Developed and maintained 10+ responsive websites and web apps using React and Node.js.
+- Integrated third-party APIs (Stripe, Google Maps, Auth0) into web applications.
+- Improved website performance and SEO, increasing user engagement by 30%.
+- Collaborated with UI/UX designers to implement user-friendly interfaces.
+
+Frontend Developer Intern | CodeCrush Labs | Remote | Jun 2021 – Dec 2021
+- Built interactive components for React-based e-commerce site.
+- Participated in daily scrum meetings and contributed to code reviews.
+- Refactored CSS using Tailwind, reducing redundant code by 40%.
+
+---
+
+PROJECTS
+--------
+Personal Portfolio Website
+- Built a modern portfolio using React, styled-components, and Framer Motion.
+- Deployed on Vercel with custom domain and integrated contact form using EmailJS.
+
+Real-time Chat App
+- Full-stack app using Node.js, Express, Socket.io, and MongoDB.
+- Implemented authentication and real-time messaging features.
+
+Blog API
+- RESTful API built with Django REST Framework for a blogging platform.
+- Features include user authentication, CRUD operations, and pagination.
+
+---
+
+EDUCATION
+---------
+B.Tech in Computer Science | XYZ University | 2018 – 2022
+
+---
+
+CERTIFICATIONS
+--------------
+- Full Stack Web Development – freeCodeCamp
+- JavaScript Algorithms and Data Structures – Coursera
+
+---
+
+HOBBIES
+-------
+Open source contribution, blogging about tech, UI/UX design.
